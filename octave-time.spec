@@ -7,7 +7,7 @@ Release:	5
 Source0:	%{pkgname}-%{version}.tar.gz
 License:	GPLv2+
 Group:		Sciences/Mathematics
-Url:		http://octave.sourceforge.net/time/
+Url:		https://octave.sourceforge.net/time/
 BuildRequires:  octave-devel >= 3.0.1
 BuildRequires:  pkgconfig(gl)
 BuildRequires:  pkgconfig(glu)
